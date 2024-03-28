@@ -7,6 +7,9 @@ import matplotlib.pyplot as p
 from PIL import Image
 from PIL import ImageTk
 
+
+
+
 #LOGIN FORM
 def Ok():
     uname=e1.get()
@@ -186,7 +189,7 @@ elif choice==5:
     i=int(input('ENTER YOUR CHOICE  :  '))
     if i==1:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\alexandar.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -194,7 +197,7 @@ elif choice==5:
 
     elif i==2:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Julius Caesar.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -202,7 +205,7 @@ elif choice==5:
        
     elif i==3:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Augustus (Octavian Caesar).jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -210,7 +213,7 @@ elif choice==5:
        
     elif i==4:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Constantine the Great (Constantine I).jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -218,7 +221,7 @@ elif choice==5:
        
     elif i==5:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Tiberius.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -226,7 +229,7 @@ elif choice==5:
      
     elif i==6:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Nero.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -234,7 +237,7 @@ elif choice==5:
  
     elif i==7:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Philip II of Macedon.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -242,7 +245,7 @@ elif choice==5:
  
     elif i==8:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Ptolemy I Soter.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -250,7 +253,7 @@ elif choice==5:
          
     elif i==9:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Archelaus I.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -258,7 +261,7 @@ elif choice==5:
  
     elif i==10:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Demetrius I.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
@@ -266,7 +269,7 @@ elif choice==5:
 
     elif i==11:
         a_root=Tk()
-        image=Image.open(r"C:\Users\sanjeev\Desktop\ip\Amyntas II.jpg")
+        image=Image.open(r"C:\Users\sejal\OneDrive\Documents\Desktop\New folder\R.jpg")
         photo=ImageTk.PhotoImage(image)
         img_label=Label(image=photo)
         img_label.pack()
